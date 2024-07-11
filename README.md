@@ -1,4 +1,4 @@
-# React + Vite
+<img src="https://socialify.git.ci/Asanda001019/TASK2-TODO-LIST/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="TASK2-TODO-LIST" width="640" height="320" /># React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
